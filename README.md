@@ -41,6 +41,9 @@ Este repositorio contiene el análisis exploratorio completo de cancelaciones de
 5. **Correlación de Variables**  
    Matriz de correlaciones para evaluar vínculos estadísticos entre variables financieras y la probabilidad de cancelación.
 
+![Diagrama de flujo](Chellenge_TELECOM_X_transparente.drawio(1).png)
+
+
 ---
 
 ## Conclusión Integral del Análisis Exploratorio del Churn de Clientes
