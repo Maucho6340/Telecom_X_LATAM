@@ -87,9 +87,9 @@ Las correlaciones revelan:
 
 ![Tabla 4](Estad_descriptiva_4.png)
 
-![Tabla 5](Detección de valores atípicos.png)
+![Tabla 5](Deteccion_valores_atipicos.png)
 
-![Tabla 6](Mapa de Correlaciones.png)
+![Tabla 6](Mapa_correlaciones.png)
 
 
 **Síntesis Estratégica**<br>
