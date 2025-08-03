@@ -41,7 +41,7 @@ Este repositorio contiene el análisis exploratorio completo de cancelaciones de
 5. **Correlación de Variables**  
    Matriz de correlaciones para evaluar vínculos estadísticos entre variables financieras y la probabilidad de cancelación.
 
-![Diagrama de flujo](diagrama_flujo.png)
+![Diagrama de flujo](Diagrama_flujo.png)
 
 
 ---
