@@ -120,5 +120,5 @@ Promover contratos más extensos con beneficios escalonados que incentiven la pe
 
 **Mauricio Flores Z**  
 Estudiante Alura Latam especialización Data Science.  
-Contacto: [mafloreszelaya634.gmail] *(personaliza esto si lo deseas)*
+Contacto: [mafloreszelaya634.gmail] 
 
