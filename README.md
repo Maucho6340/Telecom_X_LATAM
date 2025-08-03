@@ -46,9 +46,13 @@ Este repositorio contiene el análisis exploratorio completo de cancelaciones de
 
 ---
 
-## Conclusión Integral del Análisis Exploratorio del Churn de Clientes
+## Conclusión Integral del Análisis Exploratorio del Churn de Clientes<br>
 
-Este estudio proporciona una visión estructurada del comportamiento de los clientes y los factores relacionados con la cancelación del servicio. Se han abordado diversas capas analíticas que permiten comprender tanto tendencias generales como indicios específicos para la toma de decisiones estratégicas.
+Este estudio proporciona una visión estructurada del comportamiento de los clientes y los factores relacionados con la cancelación del servicio. Se han abordado diversas capas analíticas que permiten comprender tanto tendencias generales como indicios específicos para la toma de decisiones estratégicas.<br>
+
+
+![Tabla 1](Estad_descriptiva_1.png)
+
 
 1. Estadística Descriptiva General:<br>
 El dataset revela una base de clientes con alta dispersión en términos de permanencia (Meses_Contrato), pagos mensuales (Monto_Mensual) y total acumulado (Monto_Total).
@@ -75,7 +79,18 @@ La variable de cancelación (Cancelación_binaria) muestra:
 Las correlaciones revelan:
 - Alta relación entre permanencia y valor acumulado (Meses_Contrato ↔ Monto_Total), confirmando que el tiempo de suscripción explica el aporte económico.
 - Correlaciones débiles pero significativas con la cancelación, donde contratos cortos y altos pagos mensuales se relacionan con mayor riesgo de abandono.
-- Variables como edad o número de cuentas tienen correlaciones muy débiles, lo que requiere métodos más complejos (segmentación o modelado) para confirmar su relevancia.
+- Variables como edad o número de cuentas tienen correlaciones muy débiles, lo que requiere métodos más complejos (segmentación o modelado) para confirmar su relevancia.<br>
+
+![Tabla 2](Estad_descriptiva_2.png)
+
+![Tabla 3](Estad_descriptiva_3.png)
+
+![Tabla 4](Estad_descriptiva_4.png)
+
+![Tabla 5](Detección de valores atípicos.png)
+
+![Tabla 6](Mapa de Correlaciones.png)
+
 
 **Síntesis Estratégica**<br>
 El análisis sugiere que la duración del contrato es el principal predictor del valor y retención, mientras que los planes de alto costo mensual pueden generar fricción si no se equilibran con una buena experiencia de usuario. Los valores atípicos, aunque informativos, deben tratarse con cautela. La presencia de cancelaciones tempranas apunta a mejorar el onboarding, ofrecer beneficios diferenciales en los primeros meses y revisar la estructura de precios.
